@@ -8,7 +8,7 @@
 
 - and amended for the third time in accordance with the Decision of the Standing Committee of the Eleventh National People's Congress on Amending the Patent Law of the People's Republic of China at its 6th Meeting on December 27, 2008
 
-Contents
+## Contents
 
 <!-- vim-markdown-toc GFM -->
 
