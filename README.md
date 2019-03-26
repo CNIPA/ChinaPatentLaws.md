@@ -10,4 +10,4 @@ China Patent Laws of People's Republic of China both in Chinese and English.
 ## Patent Laws of the People's Republic of China and it's Rules
 
 - [Patent Law of the People's Republic of China](./PatentLawOfThePeople'sRepublicOfChina.md)
-- [Rules for the Implementation of the Patent Law of the People’s Republic of China](./RulesForTheImplementationOfThePatentLawOfThePeople’sRepublicOfChina.md)
+- [Implementing Regulations of the Patent Law of the People’s Republic of China](./ImplementingRegulationsOfThePatentLawOfThePeople'sRepublicOfChina.md)
